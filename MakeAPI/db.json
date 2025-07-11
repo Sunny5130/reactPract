@@ -1,0 +1,70 @@
+{
+  "Admin": [
+    {
+      "name": "Sunny Saini",
+      "age": "20",
+      "address": "narnaul",
+      "id": "ba8f"
+    },
+    {
+      "name": "Saini",
+      "age": "21",
+      "address": "sekhpura",
+      "id": "a800"
+    },
+    {
+      "name": "S Saini",
+      "age": "22",
+      "address": "narn",
+      "id": "67d8"
+    },
+    {
+      "id": "7ba6",
+      "name": "Rohit",
+      "age": "21",
+      "address": "Subhash Nagar"
+    },
+    {
+      "id": "152d",
+      "name": "Manish Saini",
+      "age": "18",
+      "address": "Khatli"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "e194"
+    },
+    {
+      "id": "2108"
+    },
+    {
+      "id": "11d3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
